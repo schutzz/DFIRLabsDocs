@@ -149,8 +149,8 @@ ChatGPTの「Apps & Connectors」機能を用いて、GitHubリポジトリ（Pr
 
 ---
 
-**作成者:** DFIR後輩モード（記録担当）  
-**監修:** schutzz（ラボ管理者）  
-**作成日:** 2025-10-29  
+作成者: schutzz
+作成日: {date.today()}
+用途: DFIRラボ環境向け Obsidian × GitHub 自動同期設定記録書
 
 ---
