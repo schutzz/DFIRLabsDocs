@@ -1,7 +1,9 @@
 ---
 layout: default
-title: DFIRLabsDocs – Public Knowledge Repository
+title: DFIRLabsDocs – DFIR環境構築と自動化ドキュメント
+description: DFIR（Digital Forensics & Incident Response）環境で使用する Obsidian × GitHub / ChatGPT × GitHub Deep Research 連携の構築ガイド。
 ---
+
 
 <p style="margin-top:0.5rem">
 <a href="./">🏠 Home</a> ｜ 
