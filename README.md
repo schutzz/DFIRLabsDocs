@@ -1,7 +1,9 @@
-# DFIRLabsDocs – Public Knowledge Repository
+# DFIRLabsDocs
 
-このリポジトリは、DFIR（Digital Forensics & Incident Response）ラボ環境で使用している  
-**Obsidian × GitHub** および **ChatGPT × GitHub（Deep Research対応）** の構築手順をまとめた公開資料です。
+📘 公開サイト：https://schutzz.github.io/DFIRLabsDocs/
+
+このリポジトリは DFIR（Digital Forensics & Incident Response）関連の
+Obsidian／ChatGPT／GitHub 連携ガイドをまとめた公開ドキュメント集です。
 
 ## 📘 含まれる内容
 
