@@ -21,8 +21,9 @@ description: DFIR（Digital Forensics & Incident Response）環境で使用す�
 
 | ファイル | 内容概要 |
 |-----------|-----------|
-| `01_Obsidian_GitHub_Integration_Guide.md` | ObsidianとGitHubを連携してノートを自動同期する手順 |
-| `02_ChatGPT_GitHub_Integration_Guide.md` | ChatGPTとGitHubを接続し、Deep Researchによる自動解析を実現する構成 |
+| [Obsidian × GitHub 連携ガイド](01_Obsidian_GitHub_Integration_Guide_jekyll.html) | ObsidianとGitHubを連携してノートを自動同期する手順 |
+| [ChatGPT × GitHub 連携ガイド（Deep Research対応）](02_ChatGPT_GitHub_Integration_Guide_jekyll.html) | ChatGPTとGitHubを接続し、Deep Researchによる自動解析を実現する構成 |
+
 
 ## ⚙️ 推奨環境
 - Windows 10 / 11
